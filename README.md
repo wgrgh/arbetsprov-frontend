@@ -37,8 +37,8 @@ För att vi ska kunna se ditt repo behöver du göra det publikt eller bjuda in 
 **Filer:**
 
 Designen hittar du i mappen designskiss. Du öppnar den med PhotoShop, har du inte tillgång till PhotoShop kan du använda https://www.photopea.com/.
-
-Du kan då använda den bifogade JPG-filen som referensbild istället för PSD:en. Teckensnitten som används är "Martel Sans" och "Cormorant Garamond" vilka båda hittas på Google Fonts.
+Du kan också använda JPG-filen som referensbild istället för PSD:en. Teckensnitten som används är "Martel Sans" och "Cormorant Garamond" vilka båda hittas på Google Fonts.
+Herobild, logotyp och banner finns bifogat i images-mappen. 
 
 Koden är baserad på MVC-modellen.
 
